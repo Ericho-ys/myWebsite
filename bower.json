@@ -1,0 +1,21 @@
+{
+  "name": "myweb",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ericho-ys <15665511176@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
